@@ -48,6 +48,14 @@ span#expiry_date {padding:10px 0px; display:block;}
 .invite-via-mail {padding-top:10px;}
 .invite-code:before {content:"Here is your invite code:"; font-weight:300;}
 
+span.signup-link:before {
+
+  content: url(https://thesimplegreek.com/wp-content/uploads/2021/01/TSGLoginInfo.png);
+  max-width:100%;
+  font-size:16px;
+  display:block;
+  padding-bottom:25px;
+}
 
 div.navbar-div:before {
   content: url(https://thesimplegreek.com/wp-content/uploads/2021/01/3TSGIframeLogo-190w.png);

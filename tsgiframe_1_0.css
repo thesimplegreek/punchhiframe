@@ -51,7 +51,7 @@ span#expiry_date {padding:10px 0px; display:block;}
 span.signup-link:before {
 
   content: url(https://thesimplegreek.com/wp-content/uploads/2021/01/TSGLoginInfo.png);
-  max-width:100%;
+  max-width:50%;
   font-size:16px;
   display:block;
   padding-bottom:25px;
